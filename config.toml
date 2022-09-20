@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "fr"
+title = "À la baille"
+theme = "solar-theme-hugo"
+paginate = 5
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256 or -solarized-dark
+copyright = "CC BY-SA 2022 Roch Delannay"
+[params]
+  AuthorName = 'Roch Delannay'
+  GitHubUser = 'RochDLY'
+  SidebarRecentLimit = 5
+  scheme = "preference" # light, dark, gray or preference
+  description = "Carnet de recherche sur les pratiques d'écriture savante"
+[menu]
+  [[menu.main]]
+    name = "Rechercher"
+    url = "/recherche"
+  [[menu.main]]
+    name = "Journal"
+    url = "/journal"
+  [[menu.main]]
+    name = "Lectures"
+    url = "/lectures"
+  [[menu.other]]
+    name = "À propos"
+    url = "/about"
+  [[menu.other]]
+    name = "Feed"
+    url = "/index.xml"
+[outputs]
+ home = ["html","rss"]
+
