@@ -17,3 +17,7 @@ draft: false
     - Page hackathon :
         - description
         - jeux de données
+
+### [EDIT] - 2022-09-28
+
+Le site est en ligne à l'adresse suivante : https://navigations.ecrituresnumeriques.ca/
