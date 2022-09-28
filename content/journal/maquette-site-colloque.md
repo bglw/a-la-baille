@@ -4,7 +4,7 @@ date: 2022-08-11
 draft: false
 ---
 
-## Projet : réaliser une site web du colloque
+## Projet : réaliser un site web du colloque
 
 - Durée : 2 journées de colloque et une journée de hackathon
 
