@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr"
-title = "À la baille"
+title = "À la baille?"
 theme = "solar-theme-hugo"
 paginate = 5
 pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256 or -solarized-dark
